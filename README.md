@@ -74,7 +74,7 @@ How to Run the Project
 1. Clone the repository :-
 
 Copy code
-git clone https://github.com/YourUsername/Zomato-Data-Analysis.git
+git clone [https://github.com/YourUsername/Zomato-Data-Analysis.git](https://github.com/Tushar-chaurasiya/Zomato-Data-Analysis-Using-Python)
 
 2. Navigate to the project directory:
 
