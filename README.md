@@ -89,7 +89,7 @@ pip install -r requirements.txt
 4. Open the Jupyter Notebook:
 
 Copy code
-jupyter notebook Zomato_Data_Analysis_Project.ipynb
+jupyter notebook [Zomato_Data_Analysis_Project.ipynb](https://github.com/Tushar-chaurasiya/Zomato-Data-Analysis-Using-Python/blob/main/Zomato%20Data%20Analysis%20Project.ipynb)
 
 Future Improvements :-
 
