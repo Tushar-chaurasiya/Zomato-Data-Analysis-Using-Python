@@ -14,7 +14,7 @@ Objectives :-
 
 Dataset :-
 
-The dataset used for this project contains 50,000 rows and 21 columns. It includes information on restaurants such as:
+The dataset used for this project contains 51,717 rows and 17 columns. It includes information on restaurants such as:
 
 * Restaurant Name
 * Location
